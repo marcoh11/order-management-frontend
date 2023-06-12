@@ -4,4 +4,4 @@ console.log(mensaje)
  const alerta=()=>{
     console.log("no se que hacer")
  }
- szc
+ 
